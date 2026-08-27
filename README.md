@@ -5,12 +5,12 @@
 <h1 align="center">LLPower</h1>
 
 <p align="center">
-  免费、准确、注重隐私的 Android 电源监控软件<br>
-  A free, accurate, and privacy-friendly power monitor for Android
+  免费、准确、轻巧而优雅的 Android 电源监控软件<br>
+  A free, accurate, elegant, and lightweight power monitor for Android
 </p>
 
 <p align="center">
-  <a href="https://www.leleone.cn/">官方网站 / Website</a> ·
+  <strong>官方网站 / Official website：<a href="https://www.leleone.cn/">www.leleone.cn</a></strong><br>
   <a href="https://github.com/lele-one/LLPower-Releases/releases/latest">最新版本 / Latest release</a> ·
   <a href="https://www.leleone.cn/changelog">更新日志 / Changelog</a>
 </p>
@@ -56,14 +56,6 @@ LLPower is a free Android power monitoring app that reads power, temperature, vo
 - [Alternative Lanzou download](https://wwatz.lanzoum.com/iIHsF44pm21e), password: `lele`
 
 Requires Android 8.0 or later.
-
-## Screenshots / 应用截图
-
-<p align="center">
-  <img src="https://www.leleone.cn/assets/llpower-main-screen.webp?v=2" width="280" alt="LLPower main screen">
-  &nbsp;&nbsp;
-  <img src="https://www.leleone.cn/assets/llpower-charge-detail.webp?v=2" width="280" alt="LLPower charge details">
-</p>
 
 ## Latest release / 最新版本
 
