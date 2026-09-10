@@ -24,6 +24,7 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 - 实时监测功率、温度、电压与电流
 - 自动记录充电与放电过程
 - 使用机器学习预测充满时间与剩余续航
+- 对满足条件的充电过程自动进行充电表现评分
 - 支持虚拟电压与双电芯数据修正
 - 提供桌面小组件与灵动岛样式实时通知
 - 多种主题与壁纸自由搭配
@@ -32,7 +33,6 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 ### 下载
 
 - [GitHub 下载最新版 APK](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [蓝奏云备用下载](https://wwatz.lanzoum.com/iIHsF44pm21e)，密码：`lele`
 
 系统要求：Android 8.0 或更高版本。
 
@@ -45,6 +45,7 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 - Real-time power, temperature, voltage, and current monitoring
 - Automatic charging and discharging history
 - Machine-learning estimates for time to full charge and remaining battery life
+- Automatic charging performance scoring for qualifying sessions
 - Estimated voltage for devices that do not expose voltage readings, plus dual-cell correction
 - Home screen widgets and live notification capsules
 - Customizable themes and wallpapers
@@ -53,21 +54,30 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 ### Download
 
 - [Download the latest APK from GitHub](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [Alternative Lanzou download](https://wwatz.lanzoum.com/iIHsF44pm21e), password: `lele`
 
 Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**LLPower 2.3.1** · 2026-08-26
+**LLPower 2.4.0** · 2026-09-11
 
+- 新增充电表现评分，对满足条件的充电过程自动评分。
+- 新增实时通知图标模式显示温度功能。
 - 优化了充电与续航预测模型。
-- Improved the machine-learning models for charging-time and remaining-battery-life estimates.
+- 优化了充电会话的判定、断点处理和历史记录重建，减少记录中断和数据不完整。
+- 优化了低内存占用模式使用体验。
+- 诸多细节优化。
+- Added charging performance scoring: qualifying charging sessions are now scored automatically.
+- Added a temperature readout to the live notification icon mode.
+- Improved the charging and battery-life prediction models.
+- Improved charging session detection, gap handling, and history reconstruction to reduce interrupted or incomplete records.
+- Polished the low-memory mode experience.
+- Numerous refinements.
 
 APK SHA-256:
 
 ```text
-04db1472957d2437e339ff57736daa61fce17f0a46f1e206cf54468cd125932b
+defde5f36966a8e552ebc0418a3b85c63d0a43608293ffb1d736a9b069827ac7
 ```
 
 ## 隐私与说明 / Privacy and information
