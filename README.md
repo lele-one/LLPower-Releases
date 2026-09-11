@@ -59,25 +59,15 @@ Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**LLPower 2.4.0** · 2026-09-11
+**LLPower 2.4.1** · 2026-09-11
 
-- 新增充电表现评分，对满足条件的充电过程自动评分。
-- 新增实时通知图标模式显示温度功能。
-- 优化了充电与续航预测模型。
-- 优化了充电会话的判定、断点处理和历史记录重建，减少记录中断和数据不完整。
-- 优化了低内存占用模式使用体验。
 - 诸多细节优化。
-- Added charging performance scoring: qualifying charging sessions are now scored automatically.
-- Added a temperature readout to the live notification icon mode.
-- Improved the charging and battery-life prediction models.
-- Improved charging session detection, gap handling, and history reconstruction to reduce interrupted or incomplete records.
-- Polished the low-memory mode experience.
 - Numerous refinements.
 
 APK SHA-256:
 
 ```text
-defde5f36966a8e552ebc0418a3b85c63d0a43608293ffb1d736a9b069827ac7
+770047b1bab9a2a78479147e78064d683296cd687004305a6c5f9444e4820891
 ```
 
 ## 隐私与说明 / Privacy and information
