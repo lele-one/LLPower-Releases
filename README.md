@@ -109,7 +109,7 @@ Requires Android 8.0 or later.
 - [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.0.1/LLPower.3.0.1.apk)
 - [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/iTA7K4d9h6di) — 密码 / Password: `lele`
 - 系统要求 / Requirements: Android 8.0+
-- 安装包大小 / APK size: 15.14 MB (15,878,103 bytes)
+- 安装包大小 / APK size: 15.16 MB (15,894,487 bytes)
 
 ## 下载校验 / Download verification
 
