@@ -37,7 +37,7 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 ### 下载
 
 - [GitHub 下载最新版 APK](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [蓝奏云下载](https://wwatz.lanzouc.com/iEaTJ4d82hej)，密码：`lele`
+- [蓝奏云下载](https://wwatz.lanzouc.com/iOs9K4d9fn6b)，密码：`lele`
 
 系统要求：Android 8.0 或更高版本。
 
@@ -63,17 +63,22 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 ### Download
 
 - [Download the latest APK from GitHub](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/iEaTJ4d82hej), password: `lele`
+- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/iOs9K4d9fn6b), password: `lele`
 
 Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**[LLPower 3.0.0](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.0.0)**
+**[LLPower 3.0.1](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.0.1)**
 
 发布日期 / Release date: 2026-10-25
 
-## 更新内容
+## 3.0.1 更新内容 / What’s new
+
+- 修复问题并优化使用体验。
+- Fixed issues and improved the overall experience.
+
+## LLPower 3.0.0 更新内容
 
 - 接入 Shizuku，授权后可读取更多设备数据。
 - 首页全面重构，新增多种组件卡片，支持自由添加、拖动排序、调整大小和堆叠。
@@ -101,8 +106,8 @@ Requires Android 8.0 or later.
 
 ## 下载 / Download
 
-- [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.0.0/LLPower.3.0.0.apk)
-- [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/iEaTJ4d82hej) — 密码 / Password: `lele`
+- [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.0.1/LLPower.3.0.1.apk)
+- [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/iOs9K4d9fn6b) — 密码 / Password: `lele`
 - 系统要求 / Requirements: Android 8.0+
 - 安装包大小 / APK size: 15.14 MB (15,878,103 bytes)
 
@@ -111,7 +116,7 @@ Requires Android 8.0 or later.
 APK SHA-256:
 
 ```text
-d117cf517ad2c8430bfb886b9d97f52d03c018306de10165f4aafb34aa447d1c
+d7d8fbd8d4d5cd41befbf2bdf623eb139b7c0e594fa4046eb603d0ba3b958c6b
 ```
 
 - [官方网站 / Official website](https://www.leleone.cn/)
