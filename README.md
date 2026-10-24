@@ -27,17 +27,13 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 - 对满足条件的充电过程自动进行充电表现评分
 - 支持虚拟电压与双电芯数据修正
 - 提供桌面小组件与灵动岛样式实时通知
-- 首页组件自由添加、排序、调整大小与堆叠
-- 实时悬浮窗自定义布局、多套方案切换与布局分享
-- 可选 Shizuku 授权，读取更多设备数据
-- 自动校准引导、充电动画与支持 HDR 的粒子星海特效
 - 多种主题与壁纸自由搭配
 - 数据本地保存，不申请联网权限
 
 ### 下载
 
-- [GitHub 下载最新版 APK](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [蓝奏云下载](https://wwatz.lanzouc.com/iRV9B4d7xzve)，密码：`lele`
+- [GitHub 下载 APK](https://github.com/lele-one/LLPower-Releases/releases/download/v2.5.0/LLPower.2.5.0.apk)
+- [蓝奏云下载](https://wwatz.lanzouc.com/ifHGZ4aef3uh)，密码：`lele`
 
 系统要求：Android 8.0 或更高版本。
 
@@ -53,71 +49,30 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 - Automatic charging performance scoring for qualifying sessions
 - Estimated voltage for devices that do not expose voltage readings, plus dual-cell correction
 - Home screen widgets and live notification capsules
-- Customizable home screen cards: add, reorder, resize and stack
-- Live overlays with custom layouts, saved configurations and layout sharing
-- Optional Shizuku authorization for additional device data
-- Automatic calibration guide and charging animations with HDR particle starfield effects
 - Customizable themes and wallpapers
-- Local-only data storage with no internet access permission
+- Local-only data storage with no network permission
 
 ### Download
 
-- [Download the latest APK from GitHub](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/iRV9B4d7xzve), password: `lele`
+- [Download the APK from GitHub](https://github.com/lele-one/LLPower-Releases/releases/download/v2.5.0/LLPower.2.5.0.apk)
+- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/ifHGZ4aef3uh), password: `lele`
 
 Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**[LLPower 3.0.0](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.0.0)**
+**LLPower 2.5.0** · 2026-09-30
 
-发布日期 / Release date: 2026-10-25
-
-## 更新内容
-
-- 接入 Shizuku，授权后可读取更多设备数据。
-- 首页全面重构，新增多种组件卡片，支持自由添加、拖动排序、调整大小和堆叠。
-- 悬浮窗全面重构，新增更多数据与功能组件；支持自定义布局、保存和切换多套方案，并可自定义语言、字体和深浅色主题，分别调节背景与内容透明度、设置自动变淡程度，以及记忆横竖屏位置。
-- 新增悬浮窗布局分享，可生成分享海报和分享码，也可扫码或从图片导入布局。
-- 新增“黑曜”“赤焰”主题，并优化现有主题配色。
-- 新增自动校准引导。
-- 新增充电动画。
-- 新增粒子星海特效，并应用于自动校准引导和充电动画界面，支持 HDR 效果。
-- 新增一张内置壁纸。
-- 优化诸多细节并修复已知问题。
-
-## What’s new
-
-- Integrated Shizuku to access additional device data after authorization.
-- Redesigned the home screen with a variety of component cards. Add, reorder, resize, and stack cards freely.
-- Redesigned the live overlay with more data and functional components. Create custom layouts and save multiple configurations to switch between. Customize the language, font, and light or dark theme; adjust background and content opacity independently; set the automatic fade level; and save separate positions for portrait and landscape.
-- Added live overlay layout sharing. Create share posters and codes, then import a layout by scanning a code or selecting an image.
-- Added the Obsidian and Ember themes, and refined the colors of existing themes.
-- Added a guided automatic calibration flow.
-- Added charging animations.
-- Added a particle starfield effect with HDR support for the automatic calibration guide and charging animation screens.
-- Added a built-in wallpaper.
-- Refined various details and fixed known issues.
-
-## 下载 / Download
-
-- [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.0.0/LLPower.3.0.0.apk)
-- [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/iRV9B4d7xzve) — 密码 / Password: `lele`
-- 系统要求 / Requirements: Android 8.0+
-- 安装包大小 / APK size: 15.14 MB (15,878,103 bytes)
-
-## 下载校验 / Download verification
+- 新增实时数据悬浮窗，可在 APP 外直接查看电量、温度、热状态、功率、电压、电流、CPU 频率等实时数据。
+- 诸多细节优化。
+- Added a live data overlay showing battery level, temperature, thermal status, power, voltage, current, CPU frequency, and more outside the app.
+- Numerous refinements.
 
 APK SHA-256:
 
 ```text
-3b01c48f7a972f9d066fe736ae94cf64b325d9799ae46a376ec3a31be33f1c81
+94d78a403eccfd7470daa5d9463cee4990ce82144532f8b09a9eda173e366526
 ```
-
-- [官方网站 / Official website](https://www.leleone.cn/)
-- [完整更新日志 / Full changelog](https://www.leleone.cn/changelog)
-- [隐私政策 / Privacy policy](https://www.leleone.cn/privacy)
-- [权限说明 / Permissions](https://www.leleone.cn/permissions)
 
 ## 隐私与说明 / Privacy and information
 
