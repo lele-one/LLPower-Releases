@@ -37,7 +37,7 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 ### 下载
 
 - [GitHub 下载最新版 APK](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [蓝奏云下载](https://wwatz.lanzouc.com/iTA7K4d9h6di)，密码：`lele`
+- [蓝奏云下载](https://wwatz.lanzouc.com/ienqn4e5oq0j)，密码：`lele`
 
 系统要求：Android 8.0 或更高版本。
 
@@ -63,17 +63,28 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 ### Download
 
 - [Download the latest APK from GitHub](https://github.com/lele-one/LLPower-Releases/releases/latest)
-- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/iTA7K4d9h6di), password: `lele`
+- [Download from Lanzou Cloud](https://wwatz.lanzouc.com/ienqn4e5oq0j), password: `lele`
 
 Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**[LLPower 3.0.1](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.0.1)**
+**[LLPower 3.1.0](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.1.0)**
 
-发布日期 / Release date: 2026-10-25
+发布日期 / Release date: 2026-10-31
 
-## 3.0.1 更新内容 / What’s new
+## 3.1.0 更新内容 / What’s new
+
+- 新增应用耗电统计，支持通过 Shizuku 获取应用耗电排行与详情，并提供搜索、排序和分类筛选。
+- 新增 Shizuku 监控守护，在监控进程异常退出时尝试恢复。
+- 主页堆叠卡片支持长按展开。
+- 优化诸多细节并修复已知问题。
+- Added app battery usage statistics, with per-app rankings and details through Shizuku, plus search, sorting, and category filters.
+- Added Shizuku monitor guard to attempt recovery when the monitor process exits unexpectedly.
+- Stacked cards on the home screen now support long-press to expand.
+- Refined various details and fixed known issues.
+
+## LLPower 3.0.1 更新内容 / What’s new
 
 - 修复问题并优化使用体验。
 - Fixed issues and improved the overall experience.
@@ -106,17 +117,17 @@ Requires Android 8.0 or later.
 
 ## 下载 / Download
 
-- [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.0.1/LLPower.3.0.1.apk)
-- [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/iTA7K4d9h6di) — 密码 / Password: `lele`
+- [GitHub APK](https://github.com/lele-one/LLPower-Releases/releases/download/v3.1.0/LLPower.3.1.0.apk)
+- [蓝奏云 / Lanzou Cloud](https://wwatz.lanzouc.com/ienqn4e5oq0j) — 密码 / Password: `lele`
 - 系统要求 / Requirements: Android 8.0+
-- 安装包大小 / APK size: 15.16 MB (15,894,487 bytes)
+- 安装包大小 / APK size: 15.41 MB (16,164,267 bytes)
 
 ## 下载校验 / Download verification
 
 APK SHA-256:
 
 ```text
-fed61d1a491903313b5cf8b81ddbb829ddb4c783b1e094be939fb016e7aff953
+7b70e39e6e189a16963a93627a5e29a15ac2a90a767ac9ebf44047ebe855bdd5
 ```
 
 - [官方网站 / Official website](https://www.leleone.cn/)
