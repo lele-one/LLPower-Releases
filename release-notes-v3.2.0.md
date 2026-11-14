@@ -24,18 +24,9 @@
 
 ## 下载 / Download
 
-**[通过迅雷下载 LLPower 3.2.0 / Download LLPower 3.2.0 with Xunlei](https://pan.xunlei.com/s/VP5V88YYNUMS5D7rEg8timANA1?pwd=95u7)**
+下载链接见[官方网站](https://www.leleone.cn/)。
 
-- 手机下载迅雷 App，注册并登录账号。
-- 复制上方链接，将链接粘贴到迅雷 App 首页的搜索框，即可获取 LLPower。
-- On your phone, download the Xunlei app, create an account and sign in. Copy the link above and paste it into the search box on the app’s home screen.
-- 系统要求 / Requirements: Android 8.0+
-- 文件名 / Filename: LLPower 3.2.0.apk
-- 安装包大小 / APK size: 15.51 MB (16,262,563 bytes)
-
-本版本不在 GitHub 上传 APK；安装包仅通过上方迅雷链接分发。
-
-No APK is attached to this GitHub release. The installer is distributed only through the Xunlei link above.
+For download links, visit the [official website](https://www.leleone.cn/).
 
 ## 免费与分享说明 / Free use and sharing
 
@@ -43,11 +34,11 @@ No APK is attached to this GitHub release. The installer is distributed only thr
 
 **乐乐承诺：下载、安装、使用全程无需支付任何费用，LLPower内无任何广告。**
 
-**重要分享提醒：** 自 3.2.0 版本起，如需公开分享 LLPower，请直接转发此迅雷链接。请勿通过其他网盘、群发安装包等方式分发文件。感谢你尊重乐乐的劳动成果，支持 LLPower 持续更新。
+**重要分享提醒：** 自 3.2.0 版本起，如需公开分享 LLPower，请直接转发官网提供的下载链接。请勿通过其他网盘、群发安装包等方式分发文件。感谢你尊重乐乐的劳动成果，支持 LLPower 持续更新。
 
 Downloading through Xunlei provides Lele with a small amount of income, helping keep LLPower free and regularly updated. Downloading, installing, and using LLPower are completely free, and LLPower contains no ads.
 
-Starting with version 3.2.0, please share the Xunlei link when sharing LLPower publicly. Please do not upload the APK to other cloud drives or distribute the installation file through group messages.
+Starting with version 3.2.0, please share the download links provided on the official website when sharing LLPower publicly. Please do not upload the APK to other cloud drives or distribute the installation file through group messages.
 
 ## 下载校验 / Download verification
 

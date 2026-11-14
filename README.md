@@ -36,12 +36,11 @@ LLPower 是一款免费的 Android 电源监测工具，可实时读取功率、
 
 ### 下载
 
-- [通过迅雷下载 LLPower 3.2.0](https://pan.xunlei.com/s/VP5V88YYNUMS5D7rEg8timANA1?pwd=95u7)
-- 手机下载迅雷 App，注册并登录账号，再将链接粘贴到首页搜索框。
+下载链接见[官方网站](https://www.leleone.cn/)。
 
 乐乐承诺：下载、安装、使用全程无需支付任何费用，LLPower内无任何广告。
 
-自 3.2.0 版本起，公开分享 LLPower 请直接转发此迅雷链接，请勿通过其他网盘、群发安装包等方式分发文件。
+自 3.2.0 版本起，公开分享 LLPower 请直接转发官网提供的下载链接，请勿通过其他网盘、群发安装包等方式分发文件。
 
 系统要求：Android 8.0 或更高版本。
 
@@ -66,18 +65,39 @@ LLPower is a free battery and power monitoring app for Android. It displays powe
 
 ### Download
 
-- [Download LLPower 3.2.0 with Xunlei](https://pan.xunlei.com/s/VP5V88YYNUMS5D7rEg8timANA1?pwd=95u7)
-- On your phone, install Xunlei, create an account and sign in, then paste the link into the app’s home-screen search box.
+For download links, visit the [official website](https://www.leleone.cn/).
 
-Downloading, installing, and using LLPower are completely free, and LLPower contains no ads. For public sharing, forward this Xunlei link rather than redistributing the APK.
+Downloading, installing, and using LLPower are completely free, and LLPower contains no ads. For public sharing, forward the download links provided on the official website rather than redistributing the APK.
 
 Requires Android 8.0 or later.
 
 ## 最新版本 / Latest release
 
-**[LLPower 3.2.0](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.2.0)**
+**[LLPower 3.3.0](https://github.com/lele-one/LLPower-Releases/releases/tag/v3.3.0)**
 
-发布日期 / Release date: 2026-11-03
+发布日期 / Release date: 2026-11-14
+
+## 3.3.0 更新内容 / What’s new
+
+- 新增连接信息卡片，支持展示 Wi-Fi 与移动网络的连接信息，包括运营商、网络制式、频段及信号强度，并支持多 SIM 卡展示和展开详情。
+- 新增网络速率悬浮组件，分别显示实时上传和下载速率。
+- 新增自律空间，支持一键定时冷藏第三方 App，并可设置豁免应用；本次冷藏的应用到期自动恢复，减少干扰，帮助专注。
+- 新增守护恢复统计，显示 Shizuku 监控守护近 24 小时成功恢复监控的次数。
+- 更新放电剩余时间预测模型，提升预测准确性，降低预测计算功耗。
+- 优化后台采样与任务调度，降低内存占用并大幅降低待机功耗。
+- 优化主页卡片的文字适配、堆叠切换及详情展开动画。
+- 优化悬浮窗编辑器的组件添加与预览切换体验。
+- 诸多其他优化与修复。
+
+- Added a Connection Information card for Wi-Fi and mobile networks, including carrier, network type, frequency band and signal strength, with multi-SIM support and expandable details.
+- Added a floating network speed component showing upload and download rates separately.
+- Added Self-discipline space to suspend third-party apps for a set duration in one tap, with app exemptions and automatic restoration when the session ends, reducing distractions to help you focus.
+- Added a recovery counter showing how many times the Shizuku monitor guard successfully restored monitoring in the past 24 hours.
+- Updated the remaining discharge time prediction model for improved accuracy and lower prediction power consumption.
+- Optimized background sampling and task scheduling to reduce memory use and substantially lower standby power consumption.
+- Improved home card text fitting, stack transitions and detail expansion animations.
+- Improved component insertion and preview switching in the floating overlay editor.
+- Refined various details and fixed other issues.
 
 ## 3.2.0 更新内容 / What’s new
 
@@ -143,18 +163,9 @@ Requires Android 8.0 or later.
 
 ## 下载 / Download
 
-- [迅雷下载 / Download with Xunlei](https://pan.xunlei.com/s/VP5V88YYNUMS5D7rEg8timANA1?pwd=95u7)
-- 系统要求 / Requirements: Android 8.0+
-- 安装包大小 / APK size: 15.51 MB (16,262,563 bytes)
-- GitHub 仅保留版本说明，不再上传 APK。 / GitHub hosts release notes; APKs are distributed through Xunlei.
+下载链接见[官方网站](https://www.leleone.cn/)。
 
-## 下载校验 / Download verification
-
-APK SHA-256:
-
-```text
-8fc2206c79658d7bcb255d00c8bb5a3cd811cd455bc7edddcd40b51a6b8e6008
-```
+For download links, visit the [official website](https://www.leleone.cn/).
 
 - [官方网站 / Official website](https://www.leleone.cn/)
 - [完整更新日志 / Full changelog](https://www.leleone.cn/changelog)
